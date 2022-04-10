@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/wallpaperarrow"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/Title"
+        android:layout_width="333dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="18dp"
+        android:autoSizeTextType="uniform"
+        android:background="#E2FFEB3B"
+        android:text="Arrow Spinner"
+        android:textColor="#F44336"
+        android:textSize="35dp"
+        android:visibility="visible" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="238dp"
+        android:layout_height="59dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginEnd="86dp"
+        android:layout_marginBottom="24dp"
+        android:autoSizeTextType="uniform"
+        android:backgroundTint="#909C27B0"
+        android:backgroundTintMode="src_atop"
+        android:text="@string/button1"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="593dp"
+        tools:text="@string/button1" />
+
+
+</RelativeLayout>

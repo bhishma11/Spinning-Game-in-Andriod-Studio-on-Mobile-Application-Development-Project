@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Final project Spinning Game</string>
+    <string name="button">Spin</string>
+    <string name="button1">Click to Play</string>
+    <string name="textview">Player1: 0</string>
+    <string name="textview1">Player2: 0</string>
+</resources>
