@@ -4,3 +4,7 @@ This is two player game. in this game each player should click spin in one devic
 
 
 ![the game display](https://user-images.githubusercontent.com/81507587/162626230-e6631e66-067a-4c46-a5b7-eca8e91b3f41.JPG)
+
+
+Please download the uploaded video to check the simple spinning game sample 
+Thank You!
